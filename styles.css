@@ -10,7 +10,7 @@ body {
 
 .avatar {
     width: 150px;
-    border: solid 5px brown;
+    border: solid 5px rgb(216, 124, 124);
 }
 
 /* .avatar:hover {
